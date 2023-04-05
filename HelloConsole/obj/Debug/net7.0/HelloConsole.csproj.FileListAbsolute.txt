@@ -1,0 +1,15 @@
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\bin\Debug\net7.0\HelloConsole.exe
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\bin\Debug\net7.0\HelloConsole.deps.json
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\bin\Debug\net7.0\HelloConsole.runtimeconfig.json
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\bin\Debug\net7.0\HelloConsole.dll
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\bin\Debug\net7.0\HelloConsole.pdb
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfo.cs
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.dll
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\refint\HelloConsole.dll
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.pdb
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\HelloConsole.genruntimeconfig.cache
+C:\Users\kravc\OneDrive\Рабочий стол\Программирование\gb\Знакомство с языком программирования\Лекция1\HelloConsole\obj\Debug\net7.0\ref\HelloConsole.dll
